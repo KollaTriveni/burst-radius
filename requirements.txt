@@ -1,0 +1,19 @@
+# Core Graph Engine
+networkx>=3.0
+
+# Graph Visualization (optional but recommended for demo)
+matplotlib>=3.8
+
+# Structured Validation for Change Intent (optional but professional)
+pydantic>=2.0
+
+# Advanced Python Code Parsing (optional upgrade from ast)
+libcst>=1.0
+
+# CLI Enhancement (optional for better terminal UI)
+rich>=13.0
+
+# JSON/YAML Support (optional structured config)
+pyyaml>=6.0
+
+streamlit>=1.30
